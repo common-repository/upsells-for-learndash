@@ -1,0 +1,208 @@
+# Copyright (C) 2024 SaffireTech
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: UpSells For LearnDash 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/upsells-for-learndash\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-12T20:00:55+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: ldups-upsells\n"
+
+#. Plugin Name of the plugin
+msgid "UpSells For LearnDash"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.saffiretech.com/upsells-for-learndash/"
+msgstr ""
+
+#. Description of the plugin
+msgid "UpSells for LearnDash allows you to create a widget on LearnDash course page that enables you to display other related courses of your choice. It enables you to  increase visibility of your higher end course offerings to your customers and thus driving more sales."
+msgstr ""
+
+#. Author of the plugin
+msgid "SaffireTech"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.saffiretech.com"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:28
+#: include/ldups-upsells-class-setting-page.php:20
+msgid "UpSells"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:30
+msgid "UpSells For LearnDash Settings"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:73
+msgid "UpSells Widget Title"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:74
+msgid "Use this setting to give a suitable heading to your UpSell widget."
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:81
+msgid "Choose UpSell Configuration"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:82
+msgid "Free plugin allows you to show the upsell widget on the learndash course page if you wish to show upsell widget on woocommerce product page or Easy Digital Download (EDD) download page please check out our pro plugin."
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:86
+msgid "WooCommerce + LearnDash"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:89
+msgid "Easy Digital Downloads (EDD) + LearnDash"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:92
+msgid "LearnDash"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:113
+msgid "Enable 'Show More' button"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:114
+msgid "If you have multiple courses that you would like to UpSell then enabling this setting will allow you to show the UpSells courses list in 2 parts.  In the First part the visitor will see the list of related courses by default and the second list is shown after the visitor clicks on 'Show more'. Basically, allowing you to list as many courses for UpSells without taking a lot of space. If you disable this setting, then the UpSell widget will show all the courses in a single list"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:126
+msgid "UpSell Widget Display"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:127
+msgid "This setting helps you select the way in which you want to show your UpSells on the course page. The default setting is \"After Course Description\" . This will show UpSells widget  just below the course description. If you want to show UpSells at a different position on the course page, then you can choose \"Using Shortcode\" option. You can copy the shortcode and place it anywhere on the LearnDash course page."
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:138
+msgid "WooCommerce UpSell's setting"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:144
+msgid "Show UpSells on WooCommerce Product page"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:145
+msgid "Enabling this setting will set the UpSells for the corressponding WooCommerce product page that is associated with your LearnDash course and display the UpSells courses list on the WooCommerce product page."
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:156
+msgid "Easy Digital Downloads (EDD) UpSell's Setting"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-fields.php:164
+msgid "Enabling this setting will set the UpSells  for the corressponding EDD product page that is associated with your LearnDash course and display the UpSells courses list on the EDD product page."
+msgstr ""
+
+#: include/ldups-upsells-class-setting-page.php:64
+msgid "Unlock Advanced Features For UpSells for LearnDash"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-page.php:72
+msgid "100% Risk-Free Money Back Guarantee!"
+msgstr ""
+
+#: include/ldups-upsells-class-setting-page.php:73
+msgid "We guarantee you a complete refund for new purchases or renewals if a request is made within 15 Days of purchase."
+msgstr ""
+
+#: include/ldups-upsells-class-setting-page.php:81
+#: upsells-for-learndash.php:113
+msgid "WooCommerce / EDD Compatibility: "
+msgstr ""
+
+#: include/ldups-upsells-class-setting-page.php:81
+#: upsells-for-learndash.php:115
+msgid "Flexible Widget Placement: "
+msgstr ""
+
+#: include/ldups-upsells-class-setting-page.php:81
+msgid ": Effortlessly integrate the UpSells widget wherever you like, post-course description or via shortcode."
+msgstr ""
+
+#: include/ldups-upsells-class-setting-page.php:81
+#: upsells-for-learndash.php:117
+msgid "Enhanced Visibility: "
+msgstr ""
+
+#: include/ldups-upsells-class-setting-page.php:81
+#: upsells-for-learndash.php:118
+msgid "Showcase more than 3 UpSells at a time using the “Show More” button  without slowing down the page, ensuring no opportunity for selling is missed."
+msgstr ""
+
+#: include/ldups-upsells-metabox.php:70
+msgid "UpSells Widget"
+msgstr ""
+
+#: include/ldups-upsells-metabox.php:105
+msgid "Permission Denied."
+msgstr ""
+
+#: include/ldups-upsells-metabox.php:138
+msgid "Awesome, you've been using"
+msgstr ""
+
+#: include/ldups-upsells-metabox.php:138
+msgid "for more than 1 week"
+msgstr ""
+
+#: include/ldups-upsells-metabox.php:140
+msgid "Yes, I'd like to rate it!"
+msgstr ""
+
+#: include/ldups-upsells-metabox.php:140
+msgid "I already did!"
+msgstr ""
+
+#: upsells-for-learndash.php:64
+msgid "Free version deactivated"
+msgstr ""
+
+#: upsells-for-learndash.php:108
+msgid "Pro Field Alert !"
+msgstr ""
+
+#: upsells-for-learndash.php:109
+msgid "This field is available with pro version of UpSells For LearnDash"
+msgstr ""
+
+#: upsells-for-learndash.php:110
+msgid "Upgrade Now!"
+msgstr ""
+
+#: upsells-for-learndash.php:111
+msgid "Looking for this cool feature? Go Pro!"
+msgstr ""
+
+#: upsells-for-learndash.php:112
+msgid "Go with our premium version to unlock the following features:"
+msgstr ""
+
+#: upsells-for-learndash.php:114
+msgid "Now, show UpSells widgets on WooCommerce / EDD product page."
+msgstr ""
+
+#: upsells-for-learndash.php:116
+msgid "Effortlessly integrate the UpSells widget wherever you like, post-course description or via shortcode."
+msgstr ""
+
+#: upsells-for-learndash.php:137
+msgid "Setting"
+msgstr ""
+
+#: upsells-for-learndash.php:138
+msgid "UpGrade to Pro!"
+msgstr ""
